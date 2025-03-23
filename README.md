@@ -46,7 +46,7 @@ To use the AI-Powered Mock Interview Platform, follow these guidelines:
 
 ## Feedback
 
-If you have any feedback, please reach me at [mohamedamaan319@gmail.com](mailto:mohamedamaan319@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamedamaan319/).
+If you have any feedback, please reach me at [kusumkarsuyash1234@gmail.com](mailto:kusumkarsuyash1234@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/suyash-kusumkar/).
 
 
 ## Contributing
